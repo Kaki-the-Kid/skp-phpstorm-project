@@ -1,4 +1,6 @@
 <?php
+
+phpinfo();
 require_once 'config.php';
 require_once SITE_PATH . '/includes/connectDB.php';
 include SITE_PATH . '/includes/header.php';
